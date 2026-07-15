@@ -58,7 +58,7 @@ php spark serve
 Akses aplikasi melalui browser pada alamat:
 
 ```text
-http://localhost:8080
+http://localhost:8080](https://bengkelpedia.fasthost.web.id/
 ```
 
 ---
