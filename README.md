@@ -16,3 +16,6 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi di *localhost*:
 1. Buka terminal/Git Bash dan *clone repository* ini:
    ```bash
    git clone https://github.com/Fraazzz/PWL-Final-Bengkelpedia.git
+2. Masuk ke folder proyek:
+   ```bash
+   cd PWL-Final-Bengkelpedia
