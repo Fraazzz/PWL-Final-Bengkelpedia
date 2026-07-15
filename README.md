@@ -19,3 +19,6 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi di *localhost*:
 2. Masuk ke folder proyek:
    ```bash
    cd PWL-Final-Bengkelpedia
+3.Unduh semua library yang dibutuhkan dengan Composer:
+   ```bash
+   composer install
