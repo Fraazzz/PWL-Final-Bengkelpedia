@@ -114,13 +114,19 @@ Gunakan akun berikut untuk mencoba seluruh fitur aplikasi.
 
 | Username | Password |
 |----------|----------|
-| `admin` | `password123` |
+| `april` | `123` |
 
 ## 👤 User / Pelanggan
 
 | Username | Password |
 |----------|----------|
-| `pelanggan` | `password123` |
+| `wahyu` | `123` |
+
+## 👤 Montir
+
+| Username | Password |
+|----------|----------|
+| `joko` | `123` |
 
 ---
 
